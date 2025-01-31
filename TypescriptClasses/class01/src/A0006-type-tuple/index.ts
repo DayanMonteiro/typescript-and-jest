@@ -1,8 +1,8 @@
-// Tuple
+// Tuple seria um array específico com numero de indícies específicos
 const dataClient1: readonly [number, string] = [1, 'Dayan'];
-const dataClient2: [number, string, string] = [1, 'Danilo', 'Monteiro'];
-const dataClient3: [number, string, string?] = [1, 'Laryssa'];
-const dataClient4: [number, string, ...string[]] = [1, 'Gabirel', 'Viana'];
+const dataClient2: [number, string, string] = [2, 'Danilo', 'Monteiro'];
+const dataClient3: [number, string, string?] = [3, 'Laryssa'];
+const dataClient4: [number, string, ...string[]] = [4, 'Gabirel', 'Viana'];
 
 console.log(dataClient1);
 console.log(dataClient2);
