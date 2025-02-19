@@ -6,7 +6,7 @@
     "allowJs": true,
     "sourceMap": true,
 
-    "outDir": "./dist",
+    "outDir": "./dist/assets/js",
     "removeComments": true,
     "noEmitOnError": true,
     "strict": true,
